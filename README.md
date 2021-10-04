@@ -38,9 +38,10 @@ and you __need__ to have a coordinate sheet at hand (see below)
 
 The official and detailed rules of *The Siedler of catan* can you read [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=12&ved=2ahUKEwiM6Nq8tqDmAhUG3qQKHaIgDFsQFjALegQIAxAC&url=https%3A%2F%2Fwww.catan.de%2Ffiles%2Fdownloads%2F4002051693602_catan_-_das_spiel_0.pdf&usg=AOvVaw2MNR7CWP5HNokU1vrm-k27)
 ## the empty playing field:
-![empty playing field](https://github.zhaw.ch/pm1-it19azh-ehri-fame-muon/gruppe104-ATeam-projekt3_Siedler/blob/master/doc/gamempty_noard.png) 
+<img width="860" alt="gamempty_noard" src="https://user-images.githubusercontent.com/32389364/135816384-924a1081-29ca-42ee-8577-f2892ac12ad5.png">
+
 ## the coordinate sheet:
-![coordinate sheet](https://github.zhaw.ch/pm1-it19azh-ehri-fame-muon/gruppe104-ATeam-projekt3_Siedler/blob/master/doc/game%20board%20with%20coordinates.png) 
+![game board with coordinates](https://user-images.githubusercontent.com/32389364/135816428-b780450b-4d7e-46a9-9f54-0d883d11557d.png)
 
 ## Authors
 
